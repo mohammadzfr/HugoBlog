@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Mohammad Zafar'
+
+# theme = 'ananke'
+theme = 'lugo'
