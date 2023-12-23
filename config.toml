@@ -1,6 +1,52 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.mohammadzafar.com'
 languageCode = 'en-us'
-title = 'Mohammad Zafar'
+title = 'Cool Blog Site'
 
 # theme = 'ananke'
-theme = 'lugo'
+# theme = 'lugo'
+theme = 'm10c'
+
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "https://mohammadzafar.com"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/"
+    weight = 2    
+  [params]
+    author = "Mohammad Zafar"
+    description = "This is a cool description!"
+    avatar = "/Cleaner-Signature.png"
+    menu_item_separator = " | "
+    [[params.social]]
+      icon = "github"
+      name = "Github"
+      url = "https://github.com/mohammadzfr"
+    [[params.social]]
+      icon = "linkedin"
+      name = "LinkedIn"
+      url = "https://linkedin.com/in/mohammad-zfr"
+    [[params.social]]
+      icon = "mail"
+      name = "Email"
+      url = "mailto:maz271@uregina.ca"
+  # My Theme
+    [params.style]
+      #darkestColor = "#242930"
+      darkestColor = "#202731"
+      #darkColor = "#353b43"
+      darkColor = "#3d4756"
+      lightColor = "#afbac4"
+      lightestColor = "#ffffff"
+      primaryColor = "#60e160"
