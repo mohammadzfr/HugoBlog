@@ -1,6 +1,6 @@
 baseURL = 'https://blog.mohammadzafar.com'
 languageCode = 'en-us'
-title = 'Cool Blog Site'
+title = 'Mohammad Zafar'
 
 # theme = 'ananke'
 # theme = 'lugo'
@@ -10,8 +10,8 @@ theme = 'm10c'
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "portfolio"
+    name = "Portfolio"
     url = "https://mohammadzafar.com"
     weight = 1
   [[menu.main]]
@@ -26,9 +26,9 @@ theme = 'm10c'
     weight = 2    
   [params]
     author = "Mohammad Zafar"
-    description = "This is a cool description!"
+    description = "Full Stack Developer based in Regina, SK"
     avatar = "/Cleaner-Signature.png"
-    menu_item_separator = " | "
+    menu_item_separator = " ~ "
     [[params.social]]
       icon = "github"
       name = "Github"

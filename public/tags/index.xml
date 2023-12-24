@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cool Blog Site</title>
+    <title>Tags on Mohammad Zafar</title>
     <link>https://blog.mohammadzafar.com/tags/</link>
-    <description>Recent content in Tags on Cool Blog Site</description>
+    <description>Recent content in Tags on Mohammad Zafar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Dec 2023 17:13:29 -0600</lastBuildDate><atom:link href="https://blog.mohammadzafar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>https://blog.mohammadzafar.com/tags/test/</link>
+      <title>code</title>
+      <link>https://blog.mohammadzafar.com/tags/code/</link>
       <pubDate>Fri, 22 Dec 2023 17:13:29 -0600</pubDate>
       
-      <guid>https://blog.mohammadzafar.com/tags/test/</guid>
+      <guid>https://blog.mohammadzafar.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://blog.mohammadzafar.com/tags/hugo/</link>
+      <pubDate>Fri, 22 Dec 2023 17:13:29 -0600</pubDate>
+      
+      <guid>https://blog.mohammadzafar.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://blog.mohammadzafar.com/tags/markdown/</link>
+      <pubDate>Fri, 22 Dec 2023 17:13:29 -0600</pubDate>
+      
+      <guid>https://blog.mohammadzafar.com/tags/markdown/</guid>
       <description></description>
     </item>
     
