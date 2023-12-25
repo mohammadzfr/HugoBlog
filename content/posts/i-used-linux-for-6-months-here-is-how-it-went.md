@@ -53,4 +53,4 @@ doesn't have any form of telemetry being sent to any company.
 experience with just a command prompt view? That is entirely possible!
 3. Linux is completely open source and has **millions** of contributors that report and fix issues along with adding 
 
-![Ubuntu Desktop](/static/Ubuntu-Desktop-Blank.png)
+![Ubuntu Desktop](./Ubuntu-Desktop-Blank.png)
