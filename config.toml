@@ -26,7 +26,7 @@ paginate = 8
     weight = 2    
   [params]
     author = "Mohammad Zafar"
-    description = "Full Stack Developer based in Regina, SK"
+    description = "White papers, essays, and personal posts"
     avatar = "/Cleaner-Signature.png"
     menu_item_separator = " ~ "
     favicon = "/favicon.ico"
