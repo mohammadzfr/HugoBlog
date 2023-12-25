@@ -1,6 +1,6 @@
 baseURL = 'https://blog.mohammadzafar.com'
 languageCode = 'en-us'
-title = 'Mohammad Zafar'
+title = "Mohammad Zafar's Beautiful Blog!"
 
 # theme = 'ananke'
 # theme = 'lugo'
