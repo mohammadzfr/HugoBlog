@@ -5,7 +5,7 @@ title = 'Mohammad Zafar'
 # theme = 'ananke'
 # theme = 'lugo'
 theme = 'm10c'
-
+paginate = 8
 
 
 [menu]
@@ -29,6 +29,7 @@ theme = 'm10c'
     description = "Full Stack Developer based in Regina, SK"
     avatar = "/Cleaner-Signature.png"
     menu_item_separator = " ~ "
+    favicon = "/favicon.ico"
     [[params.social]]
       icon = "github"
       name = "Github"
